@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+  <Id>73eae952-4df6-43b9-8166-af21407a1148</Id>
+  <Version>1.0</Version>
+  <ProviderName>teraco</ProviderName>
+  <DefaultLocale>ja-jp</DefaultLocale>
+  <DisplayName DefaultValue="P.Poitto" />
+  <Description DefaultValue="P.Poitto"/>
+  <Hosts>
+    <Host Name="Workbook" />
+  </Hosts>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="https://20191123-officeaddin.scm.azurewebsites.net/wwwroot/index.html" />
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>
